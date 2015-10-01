@@ -3,5 +3,5 @@ Testing Github
 loha
 <br>
 haloow
-\n
-faka fin
+printf ("\n");
+loheee faka faka
